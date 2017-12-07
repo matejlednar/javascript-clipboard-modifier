@@ -1,5 +1,5 @@
 # javascript-clipboard-modifier
-JavaScript Clipboard Modifier
+JavaScript Clipboard Modifier (jQuery Plugin)
 
 You can define static or dynamic clipboard change.
 
