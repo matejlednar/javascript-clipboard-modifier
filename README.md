@@ -19,7 +19,7 @@ $().clipboardModifier(args);
 ## Dynamic example
 ```
 window.app = {};
-// create clipboard object
+// create clipboard object - obligatory
 window.app.clipboard = {
     before: "prefix ",
     }
